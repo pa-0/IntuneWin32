@@ -1,4 +1,4 @@
-# IntuneWinAppUtil-GUI-V2
+# PDF-Unpacker
 Simple GUI Interface for IntuneWinAppUtil.exe
 
 Made things even easier and now you can check to have the output to the same source directory. Just select your executable and click Generate
